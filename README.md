@@ -1,6 +1,8 @@
 mochad-web-client
 =================
 
+PROJECT IS NOT BEEN CONTINUED. NEW PROJECT at http://jpardobl.com/home-automation-python-project/
+
 Mochad web GUI writen in Django. Jet very simple django project which enable us to issue X10 commands through mochad.
 So far, the project is very simple. It handles the communication with mochad through command line calls. And it is only 
 meant for switching commands, not dim, nor xdim, nor sensors.
